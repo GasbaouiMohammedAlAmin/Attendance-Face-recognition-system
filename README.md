@@ -33,4 +33,5 @@ to run the java frame you need JRE(Java Runtime Environement) the extention of t
 - you can store the names attendance in csv file or store it in database(sqlite) as you like , the details in the video below
 
 # Video Explanation
+https://www.youtube.com/watch?v=mD6noXhp8JM
 
