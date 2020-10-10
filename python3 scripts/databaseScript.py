@@ -25,12 +25,4 @@ def exist_name(name,d1):
                   return True
           return False
 
-
-#Ano=datetime.now()
-#create_data()
-#dtstring=no.strftime("%d/%m/%Y %H:%M:%S")
-#print(dtstring)
-#insert_data("sofo gasa",dtstring) 
-#for i in range(65,200):
-#              insert_data(chr(i),dtstring)
-#print(exist_name("sofo gasa"))         
+       
