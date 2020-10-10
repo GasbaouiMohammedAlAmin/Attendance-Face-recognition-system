@@ -1,6 +1,7 @@
 # Attendance-Face-recognition-system
 Face Recognition Attendance System Based On Opencv , Python And Java Programming Language
 # screenshot
+![](screenshot.PNG)
 
 
 # The important steps to achieve like this project 
@@ -12,7 +13,7 @@ Dlib:is a modern C++ toolkit containing machine learning algorithms and tools fo
 
 ![](desktop_development.PNG)
 
-you need also to install all libraries for python3
+you need also to install all these libraries for python3
 - Pip install cmake
 - Pip install dlib
 - Pip install face-recognition
