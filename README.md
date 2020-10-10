@@ -1,10 +1,10 @@
 # Attendance-Face-recognition-system
-Face Recognition Attendance System Based On Opencv , Pytohn And Java
+Face Recognition Attendance System Based On Opencv , Pytohn And Java programming language
 screenshot
 
 #The important steps to achieve like this project 
--1  You should  install visual studio 2019 for c++ compiler because Dlib library is fully developed by c++
--2  Desktop development with c++ dependncies like in the image
+- 1  You should  install visual studio 2019 for c++ compiler because Dlib library is fully developed by c++
+- 2  Desktop development with c++ dependncies like in the image
 IMAGE
 you need also to install all libraries for python3
 - Pip install cmake
