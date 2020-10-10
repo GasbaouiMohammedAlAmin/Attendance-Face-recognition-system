@@ -21,7 +21,7 @@ you need also to install all these libraries for python3
 - Pip install opencv-python 
 
 to run the java frame you need JRE(Java Runtime Environement) the extention of the file is .jar
-![](jva_frame.PNG)
+![](java_frame.PNG)
 
 
 + for developer side i give you java scripts rar file to deal with the java source class(you need JDK Java Development Kit)
