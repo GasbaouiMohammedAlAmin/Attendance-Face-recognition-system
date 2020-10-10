@@ -26,7 +26,9 @@ to run the java frame you need JRE(Java Runtime Environement) the extention of t
 
 
 + for developer side i give you java scripts rar file to deal with the java source class(you need JDK Java Development Kit)
-- in Images Attendance folder you should put all person images to compare it with the real capture frames
+- in ImagesAttendance folder you should put all person images to compare it with the real capture frames
 
 ![](cap2.PNG)
+
+- you can store the names attendance in csv file or store it in database as you like the details in the video below
 
