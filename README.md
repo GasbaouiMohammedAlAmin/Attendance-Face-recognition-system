@@ -9,7 +9,7 @@ Face Recognition Attendance System Based On Opencv , Python And Java Programming
 
 Dlib:is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems.
 
-- Desktop development with c++ dependncies like in the image
+- Desktop development with c++ dependncies like in the bottom image (you will find like this image when you want to install visual studio 2019)
 
 ![](desktop_development.PNG)
 
@@ -20,7 +20,7 @@ you need also to install all these libraries for python3
 - Pip install numpy
 - Pip install opencv-python 
 
-to run the java frame you need JRE(Java Runtime Environement) the extention is .jar
+to run the java frame you need JRE(Java Runtime Environement) the extention of the file is .jar
 ![](jva_frame.PNG)
 
 
